@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Masaki</title>
-    <link>/</link>
-    <description>Recent content on Masaki</description>
+    <title>GCP on Masaki</title>
+    <link>/tags/gcp/</link>
+    <description>Recent content in GCP on Masaki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 18 Oct 2018 07:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/gcp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,24 +23,6 @@ GCP の 選択可能な GPU  https://cloud.google.com/gpu/
  利用可能なGPU
  NVIDIA Tesla P4  ディープラーニング推論の高速化 https://www.nvidia.co.jp/object/accelerate-inference-jp.html  NVIDIA Tesla V100  データセンターGPUで人工知能、HPC、グラフィックスの処理を加速 https://www.nvidia.com/ja-jp/data-center/tesla-v100/  NVIDIA Tesla P100  データセンターGPUで人工知能、HPC、グラフィックスの処理を加速 https://www.nvidia.co.jp/object/tesla-p100-jp.html  NVIDIA Tesla K80  データ科学者、計算科学者向けGPUコンピューティングボード https://www.nvidia.co.jp/object/tesla-k80-jp.html  GPU 詳細  https://www.nvidia.com/en-us/data-center/tesla-product-literature/    私は今回研究目的で数値計算を行うため、 NVIDIA Tesla K80 を選択します。
 リージョン NVIDIA Tesla K80 を利用可能なリージョン、GPU の料金 (1 時間あたり) / プリエンプティブ GPU の料金 (1 時間あたり)まとめ。</description>
-    </item>
-    
-    <item>
-      <title>魔法陣</title>
-      <link>/apps/item1/item1/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/apps/item1/item1/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>単語帳 -Checker-</title>
-      <link>/apps/item2/item2/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/apps/item2/item2/</guid>
-      <description>  </description>
     </item>
     
   </channel>
